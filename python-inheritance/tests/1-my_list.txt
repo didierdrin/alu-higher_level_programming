@@ -2,6 +2,6 @@ class 1
 Module takes list and sort
 
 >>> my_list = __import__("1-my_list").MyList
->>> my_list.print_sorted()
+>>> my_list.print_sorted(self)
 [1, 2, 3, 4, 5]
 
