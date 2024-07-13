@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 """
-Class BaseGeometry
+Module BaseGeometry
 """
 class BaseGeometry:
+    """
+    Class BaseGeometry extra data
+    """
     def area(self):
         """
         Raises an Exception with the message 'area() is not implemented'.
