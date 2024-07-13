@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+This module's takes a list and prints a sorted list by ascending its elements
+"""
 class MyList(list):
     """
     A custom list class that inherits from the built-in list type.
